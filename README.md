@@ -3,7 +3,7 @@ MIDTERM REPORT
 PROBLEMS SOLVED TILL NOW ARE THE FOLLOWING ->
 
 
-Problems were solved alongside each topic, progressing from easier to harder to reinforce both 
+Problems were solved for each topic, progressing from easier to harder to reinforce both 
 theory and implementation. Platforms used: LeetCode, CSES Problem Set, and Codeforces. 
 
 LEETCODE -> 

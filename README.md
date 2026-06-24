@@ -1,5 +1,6 @@
 ﻿# SOC-COMPETITVE-PROGRAMMING 
 MIDTERM REPORT
+The report SOC-midterm-report-problems-list.pdf ,contains the timeline of the codeforces,cses problems when I solved them and problems solved in leetcode.
 PROBLEMS SOLVED TILL NOW ARE THE FOLLOWING ->
 
 

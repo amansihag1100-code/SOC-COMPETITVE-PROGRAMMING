@@ -1,9 +1,5 @@
 SOC-COMPETITVE-PROGRAMMING
 
-END TERM REPORT
-
-The report SOC-endterm-report-problems-list.pdf contains the timeline of the codeforces, cses, and leetcode problems solved throughout the project (mid-term + end-term).
-
 Codeforces Handle: Haryana_bajrangbali1628
 Profile: https://codeforces.com/profile/Haryana_bajrangbali1628
 
